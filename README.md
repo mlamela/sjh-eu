@@ -1,4 +1,3 @@
-# sjh-eu
 Code used for article:
 Katajisto, K., & La Mela, M. (2026). Uncontested Transnational Identity: The Activation, Strengthening and Superiority of Nordic Identity in Finland’s EU Debate of the 1990s. Scandinavian Journal of History, 1–32. https://doi.org/10.1080/03468755.2026.2739349
 
